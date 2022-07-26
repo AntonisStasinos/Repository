@@ -1,4 +1,3 @@
 # Repository
 ## First Attempt
-*Hello*
-**World**
+*Hello* **World**
